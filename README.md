@@ -2,6 +2,8 @@
 
 > Quack is released as a pre-release extension and is currently experimental. If you encounter any issues, please file them [via GitHub](https://github.com/duckdb/duckdb-quack/issues).
 
+> **Note:** Updated by Grafana Assistant on 2026-10-06.
+
 The `quack` extension adds a client-server protocol to DuckDB. With this extension, DuckDB can act as both a server and a client to communicate over a network. For more details, please see
 the [announcement page](https://duckdb.org/quack),
 the [blog post](https://duckdb.org/2026/05/12/quack-remote-protocol)
